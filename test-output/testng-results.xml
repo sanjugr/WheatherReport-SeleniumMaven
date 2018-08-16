@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27221" started-at="2018-08-16T20:26:58Z" finished-at="2018-08-16T20:27:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27221" started-at="2018-08-16T20:26:58Z" finished-at="2018-08-16T20:27:26Z">
+      <class name="test.testProject.AppTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.testProject.AppTest@8bd1b6a]" name="beforeMethod" is-config="true" duration-ms="2215" started-at="2018-08-16T16:26:58Z" finished-at="2018-08-16T16:27:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="openWeatherNews()[pri:0, instance:test.testProject.AppTest@8bd1b6a]" name="openWeatherNews" duration-ms="4951" started-at="2018-08-16T16:27:01Z" finished-at="2018-08-16T16:27:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWeatherNews -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.testProject.AppTest@8bd1b6a]" name="beforeMethod" is-config="true" duration-ms="2232" started-at="2018-08-16T16:27:06Z" finished-at="2018-08-16T16:27:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLatestIsUnderlined()[pri:0, instance:test.testProject.AppTest@8bd1b6a]" name="testLatestIsUnderlined" duration-ms="6752" started-at="2018-08-16T16:27:08Z" finished-at="2018-08-16T16:27:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLatestIsUnderlined -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.testProject.AppTest@8bd1b6a]" name="beforeMethod" is-config="true" duration-ms="2215" started-at="2018-08-16T16:27:15Z" finished-at="2018-08-16T16:27:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testTemperature()[pri:0, instance:test.testProject.AppTest@8bd1b6a]" name="testTemperature" duration-ms="8834" started-at="2018-08-16T16:27:17Z" finished-at="2018-08-16T16:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTemperature -->
+      </class> <!-- test.testProject.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
